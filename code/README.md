@@ -1,3 +1,3 @@
 # Custom Code
 
-This directory contains the code to reproduce the figures related to the 2023 CARPALL scRNA-seq study.
+This directory contains the code and parameters used to filter the  2023 CARPALL scRNA-seq dataset.
