@@ -1,0 +1,4 @@
+barcode,is_cell,contig_id,high_confidence,length,chain,v_gene,d_gene,j_gene,c_gene,full_length,productive,cdr3,cdr3_nt,reads,umis,raw_clonotype_id,raw_consensus_id
+CGCCAAGAGCCACCTG-1,true,CGCCAAGAGCCACCTG-1_contig_1,true,473,TRB,TRBV10-2,,TRBJ2-5,TRBC2,true,true,CASSESRGEETQYF,TGCGCCAGCAGTGAGTCGAGGGGGGAGGAGACCCAGTACTTC,3657,9,clonotype1,clonotype1_consensus_1
+TTCTACATCGCCAAAT-1,true,TTCTACATCGCCAAAT-1_contig_1,true,464,TRA,TRAV1-1,,TRAJ30,TRAC,true,true,CAASNRDDKIIF,TGCGCTGCTTCGAACAGAGATGACAAGATCATCTTT,10565,12,clonotype2,clonotype2_consensus_2
+TTCTACATCGCCAAAT-1,true,TTCTACATCGCCAAAT-1_contig_2,true,480,TRB,TRBV5-1,,TRBJ2-1,TRBC2,true,true,CASRQGSSYNEQFF,TGCGCCAGCAGACAGGGGAGCTCCTACAATGAGCAGTTCTTC,14777,11,clonotype2,clonotype2_consensus_1

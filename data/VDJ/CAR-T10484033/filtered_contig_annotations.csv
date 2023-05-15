@@ -1,0 +1,2 @@
+barcode,is_cell,contig_id,high_confidence,length,chain,v_gene,d_gene,j_gene,c_gene,full_length,productive,cdr3,cdr3_nt,reads,umis,raw_clonotype_id,raw_consensus_id
+AGAATAGCAGTAAGCG-1,true,AGAATAGCAGTAAGCG-1_contig_1,true,568,TRA,TRAV29/DV5,,TRAJ54,TRAC,true,true,CAADSQGAQKLVF,TGTGCAGCAGACTCTCAGGGAGCCCAGAAGCTGGTATTT,23464,9,clonotype1,clonotype1_consensus_1
